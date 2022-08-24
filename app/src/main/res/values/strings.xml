@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TutorialFirebaseApplication</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Jazz</item>
+        <item>Heavy Metal</item>
+    </array>
+</resources>
